@@ -12,6 +12,8 @@ body{
 a{
     text-decoration: none;
 }
+
+
 .header{
     padding: 0px 155px;
     color: #e5e7eb;
@@ -77,12 +79,50 @@ a{
     color: #e5e7eb;
     font-weight: 100;
 }
+
+
 .section1{
+    margin-bottom: 40px;
     background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
 }
+.section1 p{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    padding: 0%;
+    margin: 0%;
+}
+.section1 .section1inside .s1subtxt img{
+    display: flex;
+    border: 4px solid #3882f6;
+    width: 180px;
+    height: 165px;
+    border-radius: 10px;
+}
+.section1 .section1inside{
+    gap: 8px;
+    display: flex;
+    padding: 12px 210px;
+}
+.section1 .section1inside .s1subtxt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+
 .section2{
     background-color: #e5e7eb;
 }
+
+
 .footer{
     background-color: #1f2937;
 }
