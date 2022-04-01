@@ -66,12 +66,12 @@ a{
     color: #f9faf8;
 }
 .header .info img{
-    width: 540px;
+    width: 505px;
     height: 270px;
     border-radius: 25px;
 }
 .header .info p{
-    padding-right: 45px;
+    padding-right: 75px;
     margin: 0px;
     font-size: 18px;
     color: #e5e7eb;
