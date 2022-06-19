@@ -168,11 +168,11 @@ a {
     font-weight: 500;
 }
 
-.section3 input{
+.section3 input {
     height: 35px;
     width: 120px;
     background-color: #3882f6;
-    border: 2px solid #f9faf8 ;
+    border: 2px solid #f9faf8;
     border-radius: 5px;
     color: #f9faf8;
     font-weight: 600;
@@ -181,4 +181,7 @@ a {
 
 .footer {
     background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 35px;
+    text-align: center;
 }
