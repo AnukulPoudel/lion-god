@@ -16,7 +16,7 @@ a {
 }
 
 .header {
-    padding: 0px 155px;
+    padding: 0px 245px;
     color: #e5e7eb;
     display: flex;
     background-color: #1f2937;
@@ -154,7 +154,7 @@ a {
 
 .section3 .inside {
     background-color: #3882f6;
-    margin: 100px 300px;
+    margin: 100px 270px;
     padding: 50px 0px;
     display: flex;
     align-items: center;
@@ -180,6 +180,7 @@ a {
 }
 
 .footer {
+    font-size: 18px;
     background-color: #1f2937;
     color: #e5e7eb;
     padding: 35px;
